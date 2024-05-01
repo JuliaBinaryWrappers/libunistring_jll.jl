@@ -3,12 +3,12 @@ export libunistring
 
 using Libiconv_jll
 JLLWrappers.@generate_wrapper_header("libunistring")
-JLLWrappers.@declare_library_product(libunistring, "@rpath/libunistring.2.dylib")
+JLLWrappers.@declare_library_product(libunistring, "@rpath/libunistring.5.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(Libiconv_jll)
     JLLWrappers.@init_library_product(
         libunistring,
-        "lib/libunistring.2.dylib",
+        "lib/libunistring.5.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

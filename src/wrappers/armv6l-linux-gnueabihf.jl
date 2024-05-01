@@ -3,7 +3,7 @@ export libunistring
 
 using Libiconv_jll
 JLLWrappers.@generate_wrapper_header("libunistring")
-JLLWrappers.@declare_library_product(libunistring, "libunistring.so.2")
+JLLWrappers.@declare_library_product(libunistring, "libunistring.so.5")
 function __init__()
     JLLWrappers.@generate_init_header(Libiconv_jll)
     JLLWrappers.@init_library_product(

@@ -1,160 +1,160 @@
 [[libunistring]]
 arch = "aarch64"
-git-tree-sha1 = "6a8b8da190fd8e627ba2f5d0d0ceb87425a0b99e"
+git-tree-sha1 = "59c40908d17690de25f4b594cc2c989cd15ea743"
 os = "macos"
 
     [[libunistring.download]]
-    sha256 = "c25830ebdd4c21814b080c035831e01a2151d1f35cb972bab5039fcbaad2889d"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "7d26b75093321a881071246cf184fef8375ce05dfd174e710d3bd36ec760662c"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.aarch64-apple-darwin.tar.gz"
 [[libunistring]]
 arch = "aarch64"
-git-tree-sha1 = "a7f0c6caca24fd5d4912e31230604fdbca9ffa7f"
+git-tree-sha1 = "7cdd3b0cd5cbf984433931e7f8086f86aabd67b8"
 libc = "glibc"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "448525645dbd969ca839577854720419cf9fb443d071b341113ccd8918496a9f"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "99e4c15602e14d0799e934308daaa37e55d415f21a67ce1369a4a9199cf09bdd"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.aarch64-linux-gnu.tar.gz"
 [[libunistring]]
 arch = "aarch64"
-git-tree-sha1 = "fbbc207468c33f16fcdd7f6b8b2e77489f77e793"
+git-tree-sha1 = "368cc2313fee30ccd3ccbe31a10f77dce6705558"
 libc = "musl"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "2e08a0ed8d847566ebe70cc3d6da30777fb430174a08d3a8c601fb6395115676"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.aarch64-linux-musl.tar.gz"
+    sha256 = "8893f4740492efe916ea783085b5a81e520a14f628e8c285775fb162393d6805"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.aarch64-linux-musl.tar.gz"
 [[libunistring]]
 arch = "aarch64"
-git-tree-sha1 = "353feae264cc0a79f6ece0517fa1ad7807f40a2a"
+git-tree-sha1 = "3a9b894dda6d0ef8772fbb75db81a4aba55239fa"
 os = "freebsd"
 
     [[libunistring.download]]
-    sha256 = "14343fdd5e236a54d6a3abc89c0d4816da09ecdcf83a8f6d868627f31996c59b"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "69665cb1a001a2b68e935c8e9914257bbfdd441b5bc633cee2b122a04b9d0518"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.aarch64-unknown-freebsd.tar.gz"
 [[libunistring]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "cf6dfbc22f53bfb796be5d6a7efcdbe47217468a"
+git-tree-sha1 = "b8058dc2ba49d9c5ad2f08efb74b9c39d1119862"
 libc = "glibc"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "57d50762bbbf10cb914c8860b5c19c6b0427a387c59234be90bdcb8f27c25f8f"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "8bf1e3bb471b5b95d01ed6a8be0f2ed4006735dd95ef7e0f5a0a79057938fb54"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.armv6l-linux-gnueabihf.tar.gz"
 [[libunistring]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "bed1d3a8b4364ac797580b2f92502049b9857a2a"
+git-tree-sha1 = "466624f7ae4a367ebdb6da1771119474994c9bb4"
 libc = "musl"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "4d613376ec6650e22005ea29e2401ef5b36ecaa6ed5faeaf4a7b29a862c9ebbb"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "d887b9232114dfe9d4f75a226f2e7d19232a8a2875b8e3a35ddcd16a2e5f02e2"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.armv6l-linux-musleabihf.tar.gz"
 [[libunistring]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e6a22e7777b081b032024f4da1d5b229b21b75f9"
+git-tree-sha1 = "b940ca1986ec85bfba083e4266f7d19a91cae42e"
 libc = "glibc"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "ae4eeb423d659edcbc43c67c9628e18402e30477eb1f9568a77ea75a4f05e35e"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7355ef15e2f9ea84625b02ae36b09c6e947bf29f6f38464b90c8ac62b26604e9"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.armv7l-linux-gnueabihf.tar.gz"
 [[libunistring]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1fcd02900f0602918f8c20585e3a6f80b78568ed"
+git-tree-sha1 = "9d698a04ef97a96ec66f56779ec1c5023a8678f4"
 libc = "musl"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "105d0127b2fcc39774478f11a562ed8c81c0f28afc136e16c7fb3ff8fae043c4"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "ad6153a00ca3441d03b31358423ba07f2b988c304397a0c500f174fc26f476ac"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.armv7l-linux-musleabihf.tar.gz"
 [[libunistring]]
 arch = "i686"
-git-tree-sha1 = "dfe5e574dac111ac924e032c2202203950b9b708"
+git-tree-sha1 = "c80b25f7c61a176ec244fcd6eb91de81d3162b0c"
 libc = "glibc"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "3ae9abb29a1545557dde2d1d63c56586bfb5569642a51c07c297b59ffad3b055"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.i686-linux-gnu.tar.gz"
+    sha256 = "1de43ff80fd9f5f0d6494b146ceebe301dbf5de38c382ec388c4c1c5a8fdbb1c"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.i686-linux-gnu.tar.gz"
 [[libunistring]]
 arch = "i686"
-git-tree-sha1 = "c1e5caaa6b540109bba41778a661024f287455fb"
+git-tree-sha1 = "10ffc9a5b0c91f8bd876f189719e9ed8706b00e2"
 libc = "musl"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "8c632b9b091795afda7eb0f3fed5a8ca8563d2345b836f200b0f1da742172470"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.i686-linux-musl.tar.gz"
+    sha256 = "ac4d71b7066e6ecb2f02e14e7976925890b9ecb23b12abc09ec672cb9ce67c3d"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.i686-linux-musl.tar.gz"
 [[libunistring]]
 arch = "i686"
-git-tree-sha1 = "cf2638aff178f28e6b77d26d6100168ecf59a734"
+git-tree-sha1 = "29e51734795506ccbffb13f2af4263fca6c81588"
 os = "windows"
 
     [[libunistring.download]]
-    sha256 = "70c113815f1d7b46c1b15e72681c561de30636e9b4a7280adc35824c79b10887"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.i686-w64-mingw32.tar.gz"
+    sha256 = "31bc23a452d5f97f73d576f1c25b785303e01eedad2b4c9a0caca516d665a502"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.i686-w64-mingw32.tar.gz"
 [[libunistring]]
 arch = "powerpc64le"
-git-tree-sha1 = "395287cc8fd95c199a211e9f1fb96a1d1ca71b81"
+git-tree-sha1 = "1182c9e7d4ae0cdc912a6045cb20432e150d713a"
 libc = "glibc"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "23cf2d77f004d56248d3f1d947b6e0253cd04c2cf3d1e0ed472cf4cc863d32de"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "7c1a7f1c66f99fd1e239b0718634b2d05326066b20e1b0e4baa03639b484648b"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.powerpc64le-linux-gnu.tar.gz"
 [[libunistring]]
 arch = "riscv64"
-git-tree-sha1 = "b33b63ffed9166c3c5ed59855ec712dbb6433005"
+git-tree-sha1 = "46663c09023d55e8ef5458113bf3e0f0e92cd11f"
 libc = "glibc"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "f3c43e60ce424b2a72ed5965c903cdfff6547580cf894184017f34a9e61d7c57"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "55cccb12241e16427d3b71636d3f24bca766eb1783f8527cc531bdc248f7a222"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.riscv64-linux-gnu.tar.gz"
 [[libunistring]]
 arch = "x86_64"
-git-tree-sha1 = "c0237645d744540352ab79b2f5cd256f792d0e39"
+git-tree-sha1 = "9d51eb3323f2c5d0da141a5ebe16da112345feb1"
 os = "macos"
 
     [[libunistring.download]]
-    sha256 = "de67483fee1c956a1ef9211cf85e76b6c18014bb8fba716eb833ef7fe3e7da31"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "6d69bd2998223036e07a28391ce645127d9cb18422569fdf942fdaa912bf4480"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.x86_64-apple-darwin.tar.gz"
 [[libunistring]]
 arch = "x86_64"
-git-tree-sha1 = "f979e7bec3c542ff28adc76cd7cf720057d93741"
+git-tree-sha1 = "796b4e7da32d3f475927c0a87bdbf4e150409270"
 libc = "glibc"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "2d6eb33637c1693ff1b4503643b224013c448208b0e05279a8a396334c355b09"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "b8ff60904c043fde2b78142686cc5776d074c95e137d90f117b1976500c39eea"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.x86_64-linux-gnu.tar.gz"
 [[libunistring]]
 arch = "x86_64"
-git-tree-sha1 = "bba00797adf0830402259a658a43ffc1ffebc436"
+git-tree-sha1 = "98b9a8793a591977fe79747c34a3efdb99b3bd7b"
 libc = "musl"
 os = "linux"
 
     [[libunistring.download]]
-    sha256 = "ffac13aa2b3aa3500bde592f49029bc76ebaa36560448b73c260111bd9090c4a"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.x86_64-linux-musl.tar.gz"
+    sha256 = "7f97c8f171341b7b6cbbfc61af533f904667e190e404dd764423c0ae0c2d0e52"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.x86_64-linux-musl.tar.gz"
 [[libunistring]]
 arch = "x86_64"
-git-tree-sha1 = "0d14c782fb9882c2c6fe49e5b7a2669cfaa63c0d"
+git-tree-sha1 = "65c8ba49aba4a8c8d58e9deb9846295de3fae71c"
 os = "freebsd"
 
     [[libunistring.download]]
-    sha256 = "51c1b5ed9798accc2e21325e82ddfb56b896bdeb557d9d636091f02805dc857c"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "5c224e6cf1ff80975701ead312041df3ff3ed488d6dc7870fe1b2cba0db5321f"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.x86_64-unknown-freebsd.tar.gz"
 [[libunistring]]
 arch = "x86_64"
-git-tree-sha1 = "43d38e13b686e5e17122a1b2907c8fe8b278bc4e"
+git-tree-sha1 = "240b4147674bab6f2f83f7a8959963ea59001eb2"
 os = "windows"
 
     [[libunistring.download]]
-    sha256 = "11af34e95487d050728933d30b62e09a550fd6d504a14269bfb4fac152027da0"
-    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.0+0/libunistring.v1.4.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "4c0008c2dff052629c07a5dd81fdf7309abef9249214514bac2175c4a20dd3fa"
+    url = "https://github.com/JuliaBinaryWrappers/libunistring_jll.jl/releases/download/libunistring-v1.4.1+0/libunistring.v1.4.1.x86_64-w64-mingw32.tar.gz"
